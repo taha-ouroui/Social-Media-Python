@@ -4,7 +4,9 @@ This is a simple social media program developed solo for a school project (using
 It's a little rough on the edges, but I still consider it a bit of solid work that I'm proud of.
 
 ***Features:***
-User Registration: Users can create an account with a username and password.
+- User Registration: Users can create an account with a username, email and password.
+- Login & Authentication: login system to access your account.
 - Post Messages: Users can write and post text/image messages.
-- Login & Authentication: login system to access your account or create a new one.
-- Friending system
+- Friending.
+- Seeing your feed.
+- etc???
